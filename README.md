@@ -1,6 +1,4 @@
  Hi, I’m Kelly, an ECE major at the University of Washington.
-- I know Java, Javascript, and some Python and System Verilog
-- I’m currently learning software development and web development
 
 
 <!---
